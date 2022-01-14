@@ -40,3 +40,5 @@ helps to register an users for on events conducted in college fests with simple 
 13. admin login details  Email=admin@gmail.com and Password=123456789.
 
 If you like this project give me a star (⭐).
+
+for any queries contact me : n.somashekar415@gmail.com
